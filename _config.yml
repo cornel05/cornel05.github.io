@@ -15,8 +15,8 @@ timezone: "Asia/Ho_Chi_Minh"
 # ↓ --------------------------
 
 title: cornel05 # the main title
-favicon: /assets/img/icons8-cute-hamster-color-96.png # the favicon
-logo: /assets/img/icons8-cute-hamster-color-96.png # the logo in the sidebar
+# favicon: /assets/img/icons8-cute-hamster-color-96.png # the favicon
+# logo: /assets/img/icons8-cute-hamster-color-96.png # the logo in the sidebar
 
 tagline: Reverser, Forensics # it will display as the subtitle
 
