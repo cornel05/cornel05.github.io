@@ -142,9 +142,6 @@ assets:
     # only works if `assets.self_host.enabled` is 'true'
     env: # [development | production]
 
-css:
-  - /assets/css/custom.scss # custom CSS file, optional
-
 pwa:
   enabled: true # The option for PWA feature (installable)
   cache:
